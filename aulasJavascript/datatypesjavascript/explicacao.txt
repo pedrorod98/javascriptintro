@@ -1,0 +1,21 @@
+const : Utilizado quando a variavel tem um valor fixo e não pode alterado
+
+Exemplo: const firstname = "Pedro";
+
+Depois para chamar é 
+
+console.log("O nome do meu cachorro é " + firstname)
+
+
+let : Declara variavel que pode ser alterado a qualquer momento
+
+Exemplo:define as variavel let dogName, firstName, lastName;
+
+E depois declara o nome da mesma 
+dogName = "Ozuna";
+firstName = "Pedro";
+lastName = "Rodrigues";
+
+Depois para puxar
+
+console.log("O nome do meu cachorro é " + firstname,dogName,lastName)
